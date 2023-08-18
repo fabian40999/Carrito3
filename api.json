@@ -1,0 +1,74 @@
+[
+    {
+        "precio": "$20.00",
+        "id": 1,
+        "title": "Panditas",
+        "thumbnailUrl": "https://fabianbetance.000webhostapp.com/ImagesCarrito1/Panditas.jpg"
+    },
+    {
+        "precio": "$15.00",
+        "id": 2,
+        "title": "Sour Patch Kids",
+        "thumbnailUrl": "https://fabianbetance.000webhostapp.com/ImagesCarrito1/SourPatchKids.jpg"
+    },
+    {
+        "precio": "$18.00",
+        "id": 3,
+        "title": "Air Heads",
+        "thumbnailUrl": "https://fabianbetance.000webhostapp.com/ImagesCarrito1/AirHeads.jpg"
+    },
+    {
+        "precio": "$22.00",
+        "id": 4,
+        "title": "Chupa Chups",
+        "thumbnailUrl": "https://fabianbetance.000webhostapp.com/ImagesCarrito1/ChupaChups.jpg"
+    },
+    {
+        "precio": "$10.00",
+        "id": 5,
+        "title": "Mazapan",
+        "thumbnailUrl": "https://fabianbetance.000webhostapp.com/ImagesCarrito1/Mazapan.jpg"
+    },
+    {
+        "precio": "$17.00",
+        "id": 6,
+        "title": "Whoopers",
+        "thumbnailUrl": "https://fabianbetance.000webhostapp.com/ImagesCarrito1/Whoopers.jpg"
+    },
+    {
+        "precio": "$11.00",
+        "id": 7,
+        "title": "Pelon Pelo Rico",
+        "thumbnailUrl": "https://fabianbetance.000webhostapp.com/ImagesCarrito1/PelonPeloRico.jpg"
+    },
+    {
+        "precio": "$15.00",
+        "id": 8,
+        "title": "Pelon Pelo Rico Paleta",
+        "thumbnailUrl": "https://fabianbetance.000webhostapp.com/ImagesCarrito1/PelonPeloRicoPaleta.jpg"
+    },
+    {
+        "precio": "$10.00",
+        "id": 9,
+        "title": "Tic Tac",
+        "thumbnailUrl": "https://fabianbetance.000webhostapp.com/ImagesCarrito1/TicTac.jpg"
+    },
+    {
+        "precio": "$10.00",
+        "id": 10,
+        "title": "Cachetadas",
+        "thumbnailUrl": "https://fabianbetance.000webhostapp.com/ImagesCarrito1/Cachetadas.jpg"
+    },
+    {
+        "precio": "$10.00",
+        "id": 11,
+        "title": "Coco",
+        "thumbnailUrl": "https://fabianbetance.000webhostapp.com/ImagesCarrito1/Coco.jpg"
+    },
+    {
+        "precio": "$15.00",
+        "id": 12,
+        "title": "Tonicol",
+        "thumbnailUrl": "https://fabianbetance.000webhostapp.com/ImagesCarrito1/Tonicol.jpg"
+    }
+]
